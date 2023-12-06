@@ -1,4 +1,4 @@
-<img src="![FleshFlex](https://github.com/NugrahAnggara/FashFlex/assets/119094811/66483289-de68-42dc-a8fd-ffdba01ed945)" alt="FleshFlex" width="100%"/>
+<img src="https://github.com/NugrahAnggara/FashFlex/assets/119094811/66483289-de68-42dc-a8fd-ffdba01ed945" width=100% alt="flashflex">
 <h1>FleshFlex</h1>
 <p>FleshFlex adalah aplikasi berbasis sensor gravitasi dan sensor light yang digunakan untuk mengaktifkan flashlight pada android secara otomatisdengan mengukur tingkat cahaya disekitar device.</p>
 <ul>
